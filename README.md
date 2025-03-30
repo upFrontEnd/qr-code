@@ -3,6 +3,6 @@
 # QR code Generator
 
 
-<a href="https:///" target="_blank">
+<a href="https://qe-code-generator.netlify.app" target="_blank">
     <img src="./img/screen.png" />
 <a>
